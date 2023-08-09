@@ -10,8 +10,26 @@ hr {
     border-top-width: 7px;
 }
 h1 {
-    color: #CFB997
+    color: #CFB997;
+    text-align: center;
 }
 h3 {
-    color: #CFB997
+    color: #CFB997;
+    text-align: center;
+}
+img{
+    height:"30%"
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+form{
+    text-align: center;
 }
